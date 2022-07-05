@@ -58,7 +58,7 @@
 
 2. 生成随机数10 个，100 个，1000 个，2000 个，5000个，10000 个，100000个，……）所得到的三种排序方法的比较操作执行的次数如下图所示：
 
-<img width="410" alt="work2_1" src="https://user-images.githubusercontent.com/86522948/174436012-ce908e13-1285-490f-bd10-71c725fd0372.png">
+<img width="410" alt="work2_1" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig1.png?raw=true">
 
 <img width="413" alt="work2_2" src="https://user-images.githubusercontent.com/86522948/174436015-e3bfce8a-ab97-4638-80bd-f5ea1184effa.png">
 

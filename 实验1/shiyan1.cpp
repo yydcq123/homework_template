@@ -39,7 +39,7 @@ int* RandomList(int num ,RandomNumber rn)
 {
     int* temp = new int[num];
     for(int a=0; a<num; a++){
-        temp[a] = rn.randomInteger(100);
+        temp[a] = rn.randomInteger(10000);
     }
     return temp;
 }

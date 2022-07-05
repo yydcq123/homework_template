@@ -31,23 +31,10 @@ C 值不变的情形下随着 n 增加，C=200、400、800、2000 这四种情�
 [shiyan2.cpp](shiyan2.cpp) 算法实现的C语言版本
 
 ### 实验预期结果与实际结果
-+ 实验预期结果：
 
-实验过程及实验结果（C版
-1. ![knapsackDP.c](./KnapsackDP/KnapsackDP.c)
-实验过程及实验结果（Java版）
-2. ![knapsackDP.java](./KnapsackDP/KnapsackDP.java)
-实验过程及实验结果（Python版）
-3. ![knapsackDP.py](./KnapsackDP/KnapsackDP.py)
+ 不同 *n* 值（*n*=10, 20, 40, 100, 200, 400,800,2000）时动态规划算法执行时间曲线图如下所示：
 
-
-## 结果分析
-打印时间去除后
-![C=200](./data_2/images_2/Knapsackdp/c2.png)
-![C=400](./data_2/images_2/Knapsackdp/c4.png)
-![C=800](./data_2/images_2/Knapsackdp/c8.png)
-![C=2000](./data_2/images_2/Knapsackdp/c20.png)
-
+<img width="373" alt="f1" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig5.png?raw=true">
 
 ## 实验 2.2 动态规划算法的适应性测试
 

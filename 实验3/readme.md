@@ -26,18 +26,8 @@
 
 ## 实验内容
 
-1. [knapsackgreedy.py](./knapsackgreedy.py) 算法实现的python版本
-2. [knapsackgreedy.c](./knapsackgreedy.c) 算法实现的C语言版本
+1. 编程实现以上求解背包问题的贪心算法，并通过手动设置、生成随机数获得实验数据。记录随着输入规模增加算法的执行时间，分析并以图形方式展现增长率；测试、验证、对比算法的时间复杂度。
+2. [shiyan3.cpp](shiyan3.cpp) 算法实现的C++版本。
 
 ## 实验预期结果与实际结果
-+ 实验预期结果：14
-
-实验过程及实验结果（Java版）
-1. ![knapsackgreedy.java](./images_3/kgj.png)
-
-实验过程及实验结果（C版）
-2. ![knapsackgreedy.c](./images_3/kgc.png)
-
-
-分析结果：
-![knapsackgreedy.c](./images_3/kgddc.png)
+<img width="400" alt="f1" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig7.png?raw=true">

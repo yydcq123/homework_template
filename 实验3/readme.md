@@ -21,8 +21,7 @@
 
 ## 实验输入数据集
 
-文本数据集： 
-文件数据集：[数据集](.list.txt)
+
 
 ## 实验内容
 
@@ -31,3 +30,4 @@
 
 ## 实验预期结果与实际结果
 <img width="400" alt="f1" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig7.png?raw=true">
+从图可以看出，算法的时间复杂度和空间复杂度为O(n2)。

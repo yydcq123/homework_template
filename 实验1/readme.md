@@ -58,12 +58,11 @@
 
 2. 生成随机数10 个，100 个，1000 个，2000 个，5000个，10000 个，100000个，……）所得到的三种排序方法的比较操作执行的次数如下图所示：
 
-<img width="410" alt="work2_1" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig1.png?raw=true">
+<img width="410" alt="f1" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig1.png?raw=true">
 
-<img width="413" alt="work2_2" src="https://user-images.githubusercontent.com/86522948/174436015-e3bfce8a-ab97-4638-80bd-f5ea1184effa.png">
+<img width="413" alt="f2" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig2.png?raw=true">
 
-<img width="423" alt="work2_3" src="https://user-images.githubusercontent.com/86522948/174436021-fab5db9b-d7f7-4bad-a456-6eae995f117c.png">
+<img width="423" alt="f3" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig3.png?raw=true">
 
-<img width="420" alt="work2_4" src="https://user-images.githubusercontent.com/86522948/174436023-edb87d5a-ca5d-4cdc-9cb8-b447d6f0efff.png">
+<img width="420" alt="f4" src="https://github.com/yydcq123/homework_template/blob/main/pictures/fig4.png?raw=true">
 
-<img width="424" alt="work2_5" src="https://user-images.githubusercontent.com/86522948/174436025-61da3c2f-3037-43c5-b5c7-e2149a7caf2e.png">

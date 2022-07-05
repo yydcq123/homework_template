@@ -40,7 +40,6 @@ C 值不变的情形下随着 n 增加，C=200、400、800、2000 这四种情�
 
 ### 实验目的：
 
-1. 
 >对于同一问题，编程实现其分治算法和动态规划算法，通过对比分析，理解
 >动态规划算法的适用情形。通过程序的执行时间测试结果，与理论结论进行对比、
 >分析和验证。
@@ -54,45 +53,21 @@ C 值不变的情形下随着 n 增加，C=200、400、800、2000 这四种情�
 
 ### 实验输入数据集
 
-文本数据集：
-文件数据集：[数据集](./data_2/list.txt)
+不同的n值（n=5, 10, 15, 20, 25, 30）。
 
 ### 实验内容
 
-#### DAC_f
-1. [FinacciDAC.py](./Fibonacci/Divide/FibnacciDAC.py) 算法实现的python版本
-2. [FinacciDAC.c](./Fibonacci/Divide/FibnacciDAC.c) 算法实现的C语言版本
-3. [FinacciDAC.java](./Fibonacci/Divide/FibnacciDAC.java) 算法实现的java版本
+分别测试不同 n 值（n=5, 10, 15, 20, 25, 30）情形下 DAC_f 和 DP_f 算法的加法次数，记录加法次数，两个算法加法次数的对比曲线图。
+[shiyan2_2.cpp](shiyan2_2.cpp) 算法实现的C++版本
 
-#### DP_f
-1. [FinacciDAC.py](./Fibonacci/Dynamic/FibonacciDP.py) 算法实现的python版本
-2. [FinacciDAC.c](./Fibonacci/Dynamic/FibonacciDP.c) 算法实现的C语言版本
-3. [FinacciDAC.java](./Fibonacci/Dynamic/FibonacciDP.java) 算法实现的java版本
-4. [Fib.c](./Fib.c)
 
 ### 实验预期结果与实际结果
 
-#### DAC_f
-+ 实验预期结果：
+- 不同 *n* 值（*n*=5, 10, 15, 20, 25, 30）时两个算法加法次数的对比曲线图如下所示：
 
-实验过程及实验结果（Java版）
-1. ![FinacciDAC.java](./data_2/images_2/DivideI/dfj.png)
-实验过程及实验结果（C版）
-2. ![FinacciDAC.c](./data_2/images_2/DivideI/dfc.png)
-实验过程及实验结果（Python版）
-3. ![FinacciDAC.py](./data_2/images_2/DivideI/dfp.png)
-#### DP_f
-+  实验预期结果：
+<img width="373" alt="work1_1" src="https://user-images.githubusercontent.com/86522948/174437562-06839aa8-dd44-4371-a22d-a82241d3925e.png">
 
-实验过程及实验结果（Java版）
-1. ![FinacciDP.java](./data_2/images_2/DynamicI/dpj.png)
-实验过程及实验结果（C版）
-2. ![FinacciDP.c](./data_2/images_2/DynamicI/dpc.png)
-实验过程及实验结果（Python版)
-3. ![FinacciDP.py](./data_2/images_2/DynamicI/dpp.png)
 
-#### Fib
-[Fib.c](./data_2/DynamicI/fibc.png)
 
-结果分析：
-![Fib.c](./data_2/images_2/DivideI/fdpc.png)
+
+<img width="420" alt="work1_2" src="https://user-images.githubusercontent.com/86522948/174437572-701bdc0f-4c10-4c9a-bb81-32f12fdd2cd1.png">

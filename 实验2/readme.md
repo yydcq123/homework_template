@@ -22,14 +22,12 @@
 
 ## 实验输入数据集
 
-文本数据集：
-文件数据集：[数据集](./data_2/list.txt)
+C 值不变的情形下随着 n 增加，C=200、400、800、2000 这四种情形，生成 n 个随机数作为 n 个物品的价值（n=10, 20, 40, 100, 200, 400, 800, 2000）对于每个 C 值，记录随着 n 增加程序的执行时间。
 
 ### 实验内容
 
-1. [knapsackDP.py](./KnapsackDP/KnapsackDP.py) 算法实现的python版本
-1. [knapsackDP.c](./KnapsackDP/KnapsackDP.c) 算法实现的C语言版本
-1. [knapsackDP.java](./KnapsackDP/KnapsackDP.java) 算法实现的java版本
+编程实现以上求解 0-1 背包问题的动态规划算法，并通过手动设置、生成随机数获得实验数据。记录随着输入规模增加算法的执行时间，分析并以图形方式 展现增长率；测试、验证、对比算法的时间复杂度。
+[shiyan2.cpp](shiyan2.cpp) 算法实现的C语言版本
 
 ### 实验预期结果与实际结果
 + 实验预期结果：
